@@ -1,4 +1,5 @@
-### Author: Sandu Petru-Calin
+### Author of Part 1: https://github.com/goldshirefolk
+### Author of Part 2: Fool (me)
 # Part 2 of this ML project
 
 #### I've done EDA while preprocessing the dataset to get to my final feature matrix:
